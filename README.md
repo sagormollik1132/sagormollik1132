@@ -56,8 +56,15 @@
 
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagormollik1132&show_icons=true&locale=en&layout=compact" alt="sagormollik1132" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagormollik1132&show_icons=true&locale=en" alt="sagormollik1132" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagormollik1132&" alt="sagormollik1132" /></p>
+</div>
+
+<br/><br/>
