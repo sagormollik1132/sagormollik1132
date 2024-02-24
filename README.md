@@ -62,9 +62,9 @@
     
 <img width=390  src="https://github-readme-stats.vercel.app/api/top-langs?username=sagormollik1132&show_icons=true&locale=en&layout=compact" alt="sagormollik1132" />
 
-<img width=390  src="https://github-readme-stats.vercel.app/api?username=sagormollik1132&show_icons=true&locale=en" alt="sagormollik1132" />
-<br/>
-<img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagormollik1132&" alt="sagormollik1132" />
+<img width=436  src="https://github-readme-stats.vercel.app/api?username=sagormollik1132&show_icons=true&locale=en" alt="sagormollik1132" />
+<br/> <br/>
+<img width=360 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagormollik1132&" alt="sagormollik1132" />
 </div>
 
 <br/><br/>
