@@ -6,17 +6,21 @@
 
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagormollik1132&label=Profile%20views&color=0e75b6&style=flat" alt="sagormollik1132" /> </p>
+<br/>
 
-- 🔭 I'm currently working on **Myntra Clone**
+<div align="center">
 
-- 🌱 I’m currently learning **Next.js & React Native**
+🔭 I'm currently working on **Myntra Clone**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sagormollik1132](https://github.com/sagormollik1132)
+🌱 I’m currently learning **Next.js & React Native**
 
-- 💬 Ask me about **JavaScript ,React,& Node.js**
+👨‍💻 All of my projects are available at [https://github.com/sagormollik1132](https://github.com/sagormollik1132)
 
-- 📫 How to reach me **molliksagor360@gmail.com**
+💬 Ask me about **JavaScript ,React,& Node.js**
+
+📫 How to reach me **molliksagor360@gmail.com**
+
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
