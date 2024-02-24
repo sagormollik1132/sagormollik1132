@@ -68,13 +68,14 @@
 </div>
 
 <br/><br/>
-
 <hr/>
-<br/>
 
-### <h2 align="center"> 🔝 Top Contributed Repo 🔝 </h2>
+
+<div align="center">
+
+### <h2> 🔝 Top Contributed Repo 🔝 </h2>
 ![](https://github-contributor-stats.vercel.app/api?username=sagormollik1132&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
+</div>
 <br/>
 <hr/>
 
