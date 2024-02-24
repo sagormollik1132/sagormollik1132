@@ -1,5 +1,9 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sagormollik1132&label=Profile%20views&color=0e75b6&style=flat" alt="sagormollik1132" /> </p>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sagor+Mollik!;" />
+</h1>
+
 <h3 align="center">A passionate software developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagormollik1132&label=Profile%20views&color=0e75b6&style=flat" alt="sagormollik1132" /> </p>
