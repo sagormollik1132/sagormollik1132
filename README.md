@@ -74,7 +74,7 @@
 <div align="center">
 
 ### <h2> 🔝 Top Contributed Repo 🔝 </h2>
-<br/>
+
 ![](https://github-contributor-stats.vercel.app/api?username=sagormollik1132&limit=5&theme=flat&combine_all_yearly_contributions=true)
 </div>
 
