@@ -70,11 +70,13 @@
 <br/><br/>
 
 <hr/>
-
 <br/>
 
-### 🔝 Top Contributed Repo
+<h2 align="center"> 🔝 Top Contributed Repo 🔝 </h2>
 ![](https://github-contributor-stats.vercel.app/api?username=sagormollik1132&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+<br/>
+<hr/>
 
 <div align="center">
 <a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
