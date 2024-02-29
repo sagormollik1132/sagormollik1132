@@ -23,7 +23,7 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:molliksagor360@gmail.com">
+  <a href="[molliksagor360@gmail.com](https://mail.google.com/)">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/sagor-mollick-97a35528b" target="_blank">
